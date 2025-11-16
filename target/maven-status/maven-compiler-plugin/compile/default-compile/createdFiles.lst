@@ -1,0 +1,11 @@
+com/foodtracker/service/StatisticsDTO.class
+com/foodtracker/FoodTrackerApplication.class
+com/foodtracker/service/RecipeSuggestionService.class
+com/foodtracker/controller/FoodController.class
+com/foodtracker/repository/FoodRepository.class
+com/foodtracker/dto/RecipeDTO.class
+com/foodtracker/dto/FoodDTO.class
+com/foodtracker/service/StatisticsDTO$Builder.class
+com/foodtracker/dto/FoodDTO$Builder.class
+com/foodtracker/model/Food.class
+com/foodtracker/service/FoodService.class
